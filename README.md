@@ -6,12 +6,12 @@ I am enthusiastic about programming and want to learn more about it. I have alre
 *This text is Italic*\
 ***This text is italic+bold***\
 
-#Unordered List
+# Unordered List
 - Computer Science
 * Cyber Security
 + Artificial Intelligence
 
-#Ordered List
+# Ordered List
   1. Computer Science
   2. Cyber Security
   3. Artificial Intelligence
